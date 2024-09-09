@@ -21,10 +21,6 @@ Here are some of the technologies I work with:
 - **Backend:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 
 - 🥇 Bachelor’s degree in Computers and Artificial Intelligence from Cairo University
